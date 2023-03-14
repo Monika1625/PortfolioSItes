@@ -1,0 +1,344 @@
+[
+	{
+		"nav":[
+			{
+				"navLogo":"Code <strong>Fusion</strong> Infotech",
+				"navLogoLink":"Index.html",
+				"navLogoText":"Learn Code Earn"
+			},
+			{
+				"navTab":[
+					{
+						"navTabName":"Home",
+						"navTabLink":"Index.html"
+					},
+					{
+						"navTabName":"About us",
+						"navTabLink":"About.html"
+					},
+					{
+						"navTabName":"Services",
+						"navTabLink":"#service-section"
+					},
+					{
+						"navTabName":"Portfolio",
+						"navTabLink":"#portfolio-section"
+					},
+					{
+						"navTabName":"Contact us",
+						"navTabLink":"#contact-section"
+					}
+				]
+			}
+		],
+		
+		"heroSection":[
+			{
+				"heroText":"This is Me",
+				"heroHeading":"Baba Programmer",
+				"heroPara":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+				"heroButton":"Contact Me",
+				"heroButtonLink":"#",
+				"heroImage":"img/pexels-photo-3184405.webp"
+			}
+		],
+		
+		"bioDataSection":[
+			{
+				"bioDataImage":"img/pexels-photo-4087480.jpeg",
+				"bioDataHeading":"My Coding Skills",
+				"bioDataPara":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it",
+				"bioDataParaa":"Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC",
+				"bioH3Design":[
+					{
+						"bioStats":"Html",
+						"biopercentage":"99%"
+					},
+					{
+						"bioStats":"Css",
+						"biopercentage":"95%"
+					},
+					{
+						"bioStats":"Bootstrap",
+						"biopercentage":"92%"
+					},
+					{
+						"bioStats":"Java Script",
+						"biopercentage":"70%"
+					},
+					{
+						"bioStats":"Json",
+						"biopercentage":"80%"
+					}
+				],
+				"bioDownloadButton":"Download Browcher"
+			}
+		],
+		
+		"portfolioSection":[
+			{
+				"portHeading":"Latest Work",
+				"portPara":"Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC",
+				"portButtons":[
+					{
+						"portBtn":"WebSites"
+					},
+					{
+						"portBtn":"Music Player"
+					},
+					{
+						"portBtn":"Mini Projects"
+					}
+				],
+				"portImages":[
+					{
+						"portImg":"img/pexels-photo-1029757.webp",
+						"portLink":"#",
+						"portProject":"Project1"
+					},
+					{
+						"portImg":"img/pexels-photo-209151.jpeg",
+						"portLink":"#",
+						"portProject":"Project2"
+					},
+					{
+						"portImg":"img/pexels-photo-2422286.webp",
+						"portLink":"#",
+						"portProject":"Project3"
+					},
+					{
+						"portImg":"img/pexels-photo-209151.jpeg",
+						"portLink":"#",
+						"portProject":"Project4"
+					},
+					{
+						"portImg":"img/pexels-photo-2422286.webp",
+						"portLink":"#",
+						"portProject":"Project5"
+					},
+					{
+						"portImg":"img/pexels-photo-1029757.webp",
+						"portLink":"#",
+						"portProject":"Project6"
+					}
+				]
+			}
+		],
+		
+		"workData":[
+			{
+				"workCounter":"2000+",	
+				"workHeading":"Projects Completed"
+			},
+			{
+				"workCounter":"1800+",	
+				"workHeading":"Happy Clients"
+			},
+			{
+				"workCounter":"5000+",	
+				"workHeading":"Upcoming Projects"
+			},
+			{
+				"workCounter":"1000+",	
+				"workHeading":"Ongoing Projects"
+			}
+		],
+		
+		"serviceSection":[
+			{
+				"serviceHeading":"Services Offer",
+				"servicePara":"Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC"
+			},
+			{
+				"serviceTab":[
+					{
+						"serviceIcon":"desktop-sharp",
+						"serviceHead":"Websites Build up",
+						"servicesubpara":"Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC"
+					},
+					{
+						"serviceIcon":"logo-apple-appstore",
+						"serviceHead":"Web Services",
+						"servicesubpara":"Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC"
+					},
+					{
+						"serviceIcon":"logo-react",
+						"serviceHead":"Mobile Services",
+						"servicesubpara":"Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC"
+					},
+					{
+						"serviceIcon":"person-circle",
+						"serviceHead":"Digital Marketing",
+						"servicesubpara":"Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC"
+					},
+					{
+						"serviceIcon":"Server",
+						"serviceHead":"App Services",
+						"servicesubpara":"Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC"
+					},
+					{
+						"serviceIcon":"at-circle",
+						"serviceHead":"Graphic design",
+						"servicesubpara":"Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC"
+					}
+				]
+			}
+		],
+		
+		"testiMonial":[
+			{
+				"testHeading":"Our Happy Clients"
+			},
+			{
+				"testTab":[
+					{
+						"testPara":"Hey Monika, Your work is amazing In the past few years, E-commerce platforms like Amazon and Flipkart have become synonymous",
+						"testImg":"img/pexels-photo-2422286.webp",
+						"testName":"Monika Jain",
+						"testDesi":"Front End Developer"
+					},
+					{
+						"testPara":"Hey Monika, Your work is amazing In the past few years, E-commerce platforms like Amazon and Flipkart have become synonymous",
+						"testImg":"img/pexels-photo-2422286.webp",
+						"testName":"Monika Jain",
+						"testDesi":"Front End Developer"
+					},
+					{
+						"testPara":"Hey Monika, Your work is amazing In the past few years, E-commerce platforms like Amazon and Flipkart have become synonymous",
+						"testImg":"img/pexels-photo-2422286.webp",
+						"testName":"Monika Jain",
+						"testDesi":"Front End Developer"
+					},
+					{
+						"testPara":"Hey Monika, Your work is amazing In the past few years, E-commerce platforms like Amazon and Flipkart have become synonymous",
+						"testImg":"img/pexels-photo-2422286.webp",
+						"testName":"Monika Jain",
+						"testDesi":"Front End Developer"
+					},
+					{
+						"testPara":"Hey Monika, Your work is amazing In the past few years, E-commerce platforms like Amazon and Flipkart have become synonymous",
+						"testImg":"img/pexels-photo-2422286.webp",
+						"testName":"Monika Jain",
+						"testDesi":"Front End Developer"
+					},
+					{
+						"testPara":"Hey Monika, Your work is amazing In the past few years, E-commerce platforms like Amazon and Flipkart have become synonymous",
+						"testImg":"img/pexels-photo-2422286.webp",
+						"testName":"Monika Jain",
+						"testDesi":"Front End Developer"
+					}
+			
+				]
+			}
+		],
+		
+		"freesection":[
+			{
+				"freeheading":"I am Available for freelancing",
+				"freepara":"Hey Monika, Your work is amazing you have grow very fast",
+				"freebtnlink":"#",
+				"freebtn":"Hire Me"
+			}
+		],
+		
+		"footer":[
+			{
+				"footerHeading1":"About us",
+				"footerpara":"Aashirwad ICSI Test Tube Baby Centre is India’s leading fertility center and has a vision to be the best in the field of infertility treatments"
+			},
+			{
+				"footerHeading2":"Links",
+				"footerlinkTab":[
+					{
+						"footerLink":"#",
+						"footerTab":"Home"
+					},
+					{
+						"footerLink":"#",
+						"footerTab":"About"
+					},
+					{
+						"footerLink":"#",
+						"footerTab":"Services"
+					},
+					{
+						"footerLink":"#",
+						"footerTab":"Portfolio"
+					},
+					{
+						"footerLink":"#",
+						"footerTab":"Contact us"
+					}
+				]
+			},
+			{
+				"footerHeading3":"Services",
+				"footerService":[
+					{
+						"footerSLink":"#",
+						"footerSTab":"Web Development"
+					},
+					{
+						"footerSLink":"#",
+						"footerSTab":"Web Design"
+					},
+					{
+						"footerSLink":"#",
+						"footerSTab":"Main Project"
+					},
+					{
+						"footerSLink":"#",
+						"footerSTab":"Online Classes"
+					},
+					{
+						"footerSLink":"#",
+						"footerSTab":"Youtube Course"
+					}
+				]
+			},
+			{
+				"footerHeading4":"Have a Question?",
+				"footerSmlinks":[
+					{
+						"ficons":"fa fa-map-marker",
+						"flink":"#",
+						"ftext":"Pune, India"
+					},
+					{
+						"ficons":"fa fa-phone",
+						"flink":"tel:+917894561230",
+						"ftext":"7894561230"
+					},
+					{
+						"ficons":"fa fa-envelope",
+						"flink":"mailto:abc123@gmail.com",
+						"ftext":"abc123@gamil.com"
+					}
+				]
+			},
+			{
+				"fsmlink":[
+					{
+						"ficons":"logo-instagram",
+						"flink":"http://www.instagram.com"
+					},
+					{
+						"ficons":"logo-youtube",
+						"flink":"http://www.youtube.com"
+					},
+					{
+						"ficons":"logo-linkedin",
+						"flink":"http://www.linkedin.com"
+					},
+					{
+						"ficons":"logo-twitter",
+						"flink":"http://www.twitter.com"
+					}
+					
+				],
+				"fsmpara":"copyright@ 2022 All Rights Reserved !This Templates is made by Monika"
+			}
+		]
+		
+	}
+]
